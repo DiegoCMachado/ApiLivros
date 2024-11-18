@@ -1,0 +1,6 @@
+main.py
+pyproject.toml
+.env
+.idea/
+.pytest_cache/
+reports/
